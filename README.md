@@ -4,7 +4,8 @@ We found it tedious to use multiple web apps to manage our social media campaign
 
 **We plan to use:** 
 
-* Facebook and Twitter Api
+* Facebook Api
+* Twitter Api
 * Klout Api
 
 ## Installation
