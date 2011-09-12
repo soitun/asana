@@ -4,8 +4,31 @@ We found it tedious to use multiple web apps to manage our social media campaign
 
 **We plan to use:** 
 
-* OmniSocial for Facebook and Twitter connection
-* klout for klout api connection
+* Facebook and Twitter Api
+* Klout Api
+
+## Installation
+
+To use Asana in a Rails 3 application:
+
+1. Require it in the Gemfile: `gem 'asana'`
+
+2. Install it by running `bundle`.
+
+3. Run `rails g asana` to copy an initializer, database migration and some CSS and image assets into your base application directory.
+
+4. Edit `config/initializers/asana.rb` and include your application's Twitter and Facebook OAuth configuration.
+
+5. Run `rake db:migrate` to create the user and login_account tables.
+
+
+Some more detailed installation instructions can be found at [socialasana.com](http://socialasana.com)
+
+## Contributors
+
+* [Andrew Reedy](http://github.com/andrewreedy)
+* [Jon James](http://github.com/jonjamz)
+* You
 
 #License#
 
