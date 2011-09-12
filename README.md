@@ -4,5 +4,5 @@ We find it tedious using twenty different web apps which all try to charge just 
 
 **We plan to use:** 
 
-*OmniSocial for Facebook and Twitter connection
-*klout for klout api connection
+* OmniSocial for Facebook and Twitter connection
+* klout for klout api connection
