@@ -6,3 +6,7 @@ We found it tedious to use multiple web apps to manage our social media campaign
 
 * OmniSocial for Facebook and Twitter connection
 * klout for klout api connection
+
+#License#
+
+Social Asana is released under the MIT License. See the LICENSE file for details.
