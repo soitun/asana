@@ -4,4 +4,4 @@ It sucks having to use multiple web apps to manage social media campaigns. Asana
 
 #License#
 
-Asana.js is released under the MIT License. See the LICENSE file for details.
+Asana.js is released under the MIT License.
