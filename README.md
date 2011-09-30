@@ -1,20 +1,6 @@
-#Social Asana#
+#Asana.js#
 
-We found it tedious to use multiple web apps to manage our social media campaigns -- and the best ones charge money. Asana is a free, easy way to schedule our updates, get feedback, and keep track of our Klout analytics. Feel free to join in on the action!
-
-**We plan to use:** 
-
-* Facebook Api
-* Twitter Api
-* Klout Api
-
-Some more detailed installation instructions can be found at [socialasana.com](http://socialasana.com)
-
-## Contributors
-
-* [Andrew Reedy](http://github.com/andrewreedy)
-* [Jon James](http://github.com/jonjamz)
-* You
+We found it tedious to use multiple web apps to manage our social media campaigns -- and the best ones charge money. Asana.js is a free, easy way to schedule updates, get feedback, and keep track of Klout analytics.
 
 #License#
 
